@@ -2,7 +2,7 @@
     "name": "back-to-the-code-vscode-theme",
     "displayName": "Back to the Code",
     "description": "VS code theme inspired by Back to the Future from a fan driving at 88mph",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "divyanshu013",
     "author": {
         "name": "Divyanshu Maithani",
@@ -22,7 +22,7 @@
     "engines": {
         "vscode": "^1.17.0"
     },
-    "icon": "./assets/back-to-the-code.png",
+    "icon": "assets/back-to-the-code-icon.png",
     "galleryBanner": {
         "theme": "dark",
         "color": "#1c1d21"

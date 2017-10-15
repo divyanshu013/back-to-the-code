@@ -1,0 +1,42 @@
+{
+    "name": "back-to-the-code-vscode-theme",
+    "displayName": "Back to the Code",
+    "description": "VS code theme inspired by Back to the Future from a fan driving at 88mph",
+    "version": "0.0.1",
+    "publisher": "divyanshu013",
+    "author": {
+        "name": "Divyanshu Maithani",
+        "email": "div.blackcat@gmail.com",
+        "url": "https://github.com/divyanshu013"
+    },
+    "license": "MIT",
+    "bugs": {
+        "email": "div.blackcat@gmail.com",
+        "url": "https://github.com/divyanshu013/back-to-the-code/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/divyanshu013/back-to-the-code"
+    },
+    "homepage": "https://github.com/divyanshu013/back-to-the-code/blob/master/README.md",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "icon": "./assets/back-to-the-code.png",
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#1c1d21"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Back to the Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Back to the Code color theme-color-theme.json"
+            }
+        ]
+    }
+}
